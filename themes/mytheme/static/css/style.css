@@ -1,0 +1,15 @@
+#body{
+    text-align: center;
+    background-color: lightblue;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0 25%;
+}
+p {
+    color: darkblue;
+    font-size: 1.5em;
+    line-height: 40px;
+    font-weight: 600;
+}
+#source {
+    color: orange;
+}

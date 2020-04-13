@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="container">
+  <h1 class="text-center">
+    {{ .Type | humanize }}
+  </h1>
+  {{ range .Pages }}
+    <div class="row mt-2">
+      
+      <div class="col">
+         <p>{{ .Content }}</p> 
+ 
+
+      </div>
+    </div>
+  {{ end }}
+</div>
+{{ end }}

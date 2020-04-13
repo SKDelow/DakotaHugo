@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dakota&#39;s Website</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Dakota&#39;s Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Dec 2017 12:15:02 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Goats</title>
+      <link>http://example.org/goats/goats/</link>
+      <pubDate>Fri, 29 Dec 2017 12:15:02 +0000</pubDate>
+      
+      <guid>http://example.org/goats/goats/</guid>
+      <description>Goats- I used html instead of .md on this pageThe domestic goat or simply goat (Capra aegagrus hircus) is a subspecies of C. aegagrus domesticated from the wildgoat of Southwest Asia and Eastern Europe. The goat is a member of the animal family Bovidae and the subfamilyCaprinae, meaning it is closely related to the sheep. There are over 300 distinct breeds of goat.[1] Goats are oneof the oldest domesticated species of animal, and have been used for milk, meat, fur and skins across much of theworld.</description>
+    </item>
+    
+  </channel>
+</rss>
